@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModioX", "ModioX\ModioX.csproj", "{FE55E24B-5086-4303-9FDC-C74230118D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE55E24B-5086-4303-9FDC-C74230118D7F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D290DC34-46B2-46A0-9465-344051D67A95}
+	EndGlobalSection
+EndGlobal
