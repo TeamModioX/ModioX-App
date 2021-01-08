@@ -1,2 +1,2 @@
-# ModioX App
-A start of creating ModioX for Android!
+# ModioX for Android
+The start of creating ModioX for Android!
